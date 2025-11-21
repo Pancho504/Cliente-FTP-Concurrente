@@ -3,7 +3,7 @@
 Este proyecto implementa un cliente FTP capaz de realizar transferencias de archivos en segundo plano sin bloquear la terminal del usuario.
 
 ## Archivos
-- `ZunigaJ-clienteFTP.c`: Código fuente principal del cliente.
+- `HernandezF-clienteFTP.c`: Código fuente principal del cliente.
 - `connectTCP.c`, `passiveTCP.c`, etc.: Librerías de conexión de sockets.
 - `Makefile`: Script de compilación automatizada.
 
